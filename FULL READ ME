@@ -1,0 +1,42 @@
+# ⚡ AlphaPulse AI
+
+> Real-time crypto sentiment & signal engine powered by AI-driven analytics.
+
+![banner](./assets/banner.png)
+
+---
+
+## 🧠 Overview
+
+AlphaPulse AI is a lightweight crypto intelligence dashboard designed to track market sentiment, identify trending tokens, and generate real-time trading signals.
+
+Built for traders, degens, and alpha hunters.
+
+---
+
+## 🚀 Features
+
+- 📊 Live token tracking
+- 🤖 AI-powered sentiment scoring
+- 🚨 Buy / Watch / Avoid signals
+- 📈 Market trend visualization
+- 🌙 Clean dark-mode interface
+
+---
+
+## 🖥 Demo
+
+> Coming soon — live dashboard preview
+
+---
+
+## ⚙️ Tech Stack
+
+- JavaScript (ES6)
+- HTML5 / CSS3
+- Chart.js
+- JSON-based data simulation
+
+---
+
+## 📂 Project Structure
