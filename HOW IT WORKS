@@ -1,0 +1,21 @@
+## 🔧 How It Works
+
+AlphaPulse uses a simulated data engine to:
+
+1. Track token mentions
+2. Assign sentiment scores
+3. Generate trading signals
+
+Signals are calculated based on:
+- Volume spikes
+- Social activity
+- Momentum indicators
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/alphapulse-ai.git
+cd alphapulse-ai
+open index.html
