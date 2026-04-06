@@ -1,0 +1,11 @@
+lugins: {
+      legend: {
+        labels: { color: "#fff" }
+      }
+    },
+    scales: {
+      x: { ticks: { color: "#aaa" } },
+      y: { ticks: { color: "#aaa" } }
+    }
+  }
+});
